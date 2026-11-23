@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### Luau Programmer with 5+ years of experience.
+#### Luau Programmer with 5+ years of experience with Roblox Studio.
 
 Made an open-source project called [SmapIt](https://github.com/studzt/SmapIt);<br>
 Solo-developed a full game on [roblox](https://www.roblox.com/games/119239269226854);<br>
